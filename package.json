@@ -1,0 +1,9 @@
+{ "homepage": "https://github.io.Dan4iiiiiK/softUnit",
+  "scripts": {
+    "deploy":"gh-pages -d dist"
+  },
+  "dependencies": {
+    "gh-pages": "^6.1.1",
+    "init": "^0.1.2"
+  }
+}
